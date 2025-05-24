@@ -1,11 +1,143 @@
-<h3 align="center"> frontend developer from egypt</h3>
+# Hi there, I'm Ahmed Farouh! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedfarouh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmedfarouh/" height="30" width="40" /></a>
-</p>
+## 🅰️ Junior Angular Developer | Frontend Enthusiast | Egypt 🇪🇬
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
+Welcome to my GitHub profile! I'm a passionate junior Angular developer eager to build modern web applications and grow my skills in the Angular ecosystem. I love learning new technologies and solving problems through code.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medfarouh&show_icons=true&locale=en&layout=compact" alt="a7medfarouh" /></p>
+### 🌱 Technologies I'm Learning & Using
+
+**Angular Fundamentals:**
+- **Core:** Angular, TypeScript, HTML5, CSS3, SCSS
+- **Components:** Creating reusable components and services
+- **Routing:** Angular Router for navigation
+- **Forms:** Reactive Forms and Template-driven Forms
+- **HTTP:** Making API calls with HttpClient
+- **Styling:** Angular Material, Bootstrap, CSS Grid & Flexbox
+
+**Development Tools:**
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Version Control:** Git & GitHub
+- **IDE:** VS Code with Angular extensions
+- **Build Tools:** Angular CLI
+- **Design:** Figma basics, responsive design principles
+
+### 📊 GitHub Stats
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medfarouh&show_icons=true&theme=vue&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medfarouh&layout=compact&theme=vue&hide_border=true)
+
+### 🚀 What I'm Building
+
+- 🅰️ Learning Angular fundamentals through hands-on projects
+- 💡 Building responsive web applications with TypeScript
+- 🎨 Creating user-friendly interfaces with Angular Material
+- 📱 Developing mobile-first, responsive designs
+- 🔍 Exploring best practices in Angular development
+- 🧪 Learning to write basic unit tests
+
+### 🎯 Currently Learning
+
+- 📚 **Angular Core Concepts:** Components, Services, Dependency Injection
+- 🔄 **RxJS Basics:** Observables, Operators, Async operations
+- 🎨 **Angular Material:** Building beautiful, accessible UIs
+- 🧪 **Testing:** Unit testing with Jasmine and Karma
+- 🌐 **APIs:** Consuming REST APIs and handling HTTP requests
+- 📦 **State Management:** Learning NgRx fundamentals
+
+### 💻 Projects I'm Working On
+
+**🏗️ Learning Projects:**
+- **Todo Application:** CRUD operations with local storage
+- **Weather App:** API integration and responsive design  
+- **Portfolio Website:** Showcasing my projects and skills
+- **Recipe Book:** Angular forms and data management
+- **Calculator App:** Component interaction and TypeScript logic
+
+### 🛠️ My Development Setup
+
+```typescript
+const myCurrentStack = {
+  frontend: ['Angular', 'TypeScript', 'HTML5', 'CSS3', 'SCSS'],
+  uiFrameworks: ['Angular Material', 'Bootstrap'],
+  tools: ['Angular CLI', 'VS Code', 'Git', 'Chrome DevTools'],
+  learning: ['RxJS', 'NgRx', 'Angular Testing', 'REST APIs'],
+  nextGoals: ['Advanced Angular', 'Node.js', 'MongoDB']
+};
+```
+
+### 📈 My Journey
+
+**🎓 Learning Path:**
+- ✅ HTML, CSS, and JavaScript fundamentals
+- ✅ TypeScript basics and intermediate concepts
+- ✅ Angular fundamentals (Components, Services, Routing)
+- 🔄 Currently: Angular Forms and HTTP Client
+- 📋 Next: RxJS and state management
+- 🎯 Goal: Building full-stack applications
+
+**💡 Recent Achievements:**
+- Built my first Angular application with routing
+- Learned to consume REST APIs with HttpClient
+- Created responsive layouts with CSS Grid and Flexbox
+- Started using Git and GitHub for version control
+- Completed [specific course/tutorial you've done]
+
+### 🎓 Learning Resources I Love
+
+- 📖 **Angular Documentation** - Official Angular guides
+- 🎥 **YouTube Tutorials** - Angular crash courses and projects
+- 💻 **Coding Challenges** - Building small projects daily
+- 👥 **Developer Communities** - Learning from experienced developers
+- 📱 **Tech Blogs** - Following Angular best practices
+
+### 📫 Let's Connect!
+
+I'm always excited to connect with other developers, learn from experienced professionals, and collaborate on beginner-friendly projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-farouh-b2b4b0139)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a7medfarouh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### 💼 Open for Opportunities
+
+🔍 **Looking for:** 
+- **Junior Angular Developer** positions
+- **Frontend Developer** internships
+- **Entry-level** remote opportunities  
+- **Mentorship** from senior developers
+- **Open source** contribution opportunities
+
+### 🌟 What I Bring
+
+- 🔥 **Enthusiasm:** Passionate about learning and growing
+- 💪 **Dedication:** Committed to continuous improvement
+- 🧠 **Problem-solving:** Love tackling coding challenges
+- 🤝 **Collaboration:** Team player eager to contribute
+- 📚 **Growth Mindset:** Always ready to learn new things
+
+### 🎯 2024 Goals
+
+- [ ] Build 5 complete Angular projects
+- [ ] Learn NgRx for state management  
+- [ ] Contribute to an open-source Angular project
+- [ ] Master Angular testing with Jasmine/Karma
+- [ ] Learn Node.js for full-stack development
+- [ ] Land my first Angular developer job
+
+---
+
+💡 **Daily Motivation:** "Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown." 
+
+*Currently coding my way to becoming a skilled Angular developer, one component at a time! 🚀*
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! I'm always open to feedback and learning opportunities!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=a7medfarouh&color=brightgreen&style=flat-square)
+![Junior Developer](https://img.shields.io/badge/Level-Junior%20Developer-green?style=flat-square)
+
+</div>
