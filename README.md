@@ -97,7 +97,6 @@ I'm always excited to connect with other developers, learn from experienced prof
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-farouh-b2b4b0139)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a7medfarouh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ### 💼 Open for Opportunities
 
@@ -116,14 +115,13 @@ I'm always excited to connect with other developers, learn from experienced prof
 - 🤝 **Collaboration:** Team player eager to contribute
 - 📚 **Growth Mindset:** Always ready to learn new things
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 
-- [ ] Build 5 complete Angular projects
+- [ ] Build complete Angular projects
 - [ ] Learn NgRx for state management  
 - [ ] Contribute to an open-source Angular project
 - [ ] Master Angular testing with Jasmine/Karma
-- [ ] Learn Node.js for full-stack development
-- [ ] Land my first Angular developer job
+- [ ] Learn JAVA for full-stack development
 
 ---
 
