@@ -81,7 +81,7 @@ const myCurrentStack = {
 - Learned to consume REST APIs with HttpClient
 - Created responsive layouts with CSS Grid and Flexbox
 - Started using Git and GitHub for version control
-- Completed [specific course/tutorial you've done]
+- Completed [JavaScript course]
 
 ### 🎓 Learning Resources I Love
 
@@ -102,9 +102,7 @@ I'm always excited to connect with other developers, learn from experienced prof
 
 🔍 **Looking for:** 
 - **Junior Angular Developer** positions
-- **Frontend Developer** internships
 - **Entry-level** remote opportunities  
-- **Mentorship** from senior developers
 - **Open source** contribution opportunities
 
 ### 🌟 What I Bring
@@ -121,7 +119,7 @@ I'm always excited to connect with other developers, learn from experienced prof
 - [ ] Learn NgRx for state management  
 - [ ] Contribute to an open-source Angular project
 - [ ] Master Angular testing with Jasmine/Karma
-- [ ] Learn JAVA for full-stack development
+- [ ] Learn Java for full-stack development
 
 ---
 
