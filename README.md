@@ -58,11 +58,11 @@ Welcome to my GitHub profile! I'm a passionate junior Angular developer eager to
 
 ```typescript
 const myCurrentStack = {
-  frontend: ['Angular', 'TypeScript', 'HTML5', 'CSS3', 'SCSS'],
+  frontend: ['Angular', 'TypeScript', 'HTML5', 'CSS3', 'SCSS','RxJS', 'REST APIs'],
   uiFrameworks: ['Angular Material', 'Bootstrap'],
   tools: ['Angular CLI', 'VS Code', 'Git', 'Chrome DevTools'],
-  learning: ['RxJS', 'NgRx', 'Angular Testing', 'REST APIs'],
-  nextGoals: ['Advanced Angular', 'Node.js', 'MongoDB']
+  learning: ['NgRx', 'Angular Testing'],
+  nextGoals: ['Advanced Angular', 'JAVA']
 };
 ```
 
@@ -72,8 +72,9 @@ const myCurrentStack = {
 - ✅ HTML, CSS, and JavaScript fundamentals
 - ✅ TypeScript basics and intermediate concepts
 - ✅ Angular fundamentals (Components, Services, Routing)
-- 🔄 Currently: Angular Forms and HTTP Client
-- 📋 Next: RxJS and state management
+- ✅ Angular Forms and HTTP Client
+- ✅ RxJS
+- 📋 Next: state management
 - 🎯 Goal: Building full-stack applications
 
 **💡 Recent Achievements:**
