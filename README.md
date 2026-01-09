@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Farouh! 👋
 
-## 🅰️ Junior Angular Developer | Frontend Enthusiast | Egypt 🇪🇬
+## 🅰️ MidLevel Angular Developer | Frontend Enthusiast | Egypt 🇪🇬
 
 Welcome to my GitHub profile! I'm a passionate junior Angular developer eager to build modern web applications and grow my skills in the Angular ecosystem. I love learning new technologies and solving problems through code.
 
@@ -102,7 +102,7 @@ I'm always excited to connect with other developers, learn from experienced prof
 ### 💼 Open for Opportunities
 
 🔍 **Looking for:** 
-- **Junior Angular Developer** positions
+- **MidLevel Angular Developer** positions
 - **Entry-level** remote opportunities  
 - **Open source** contribution opportunities
 
