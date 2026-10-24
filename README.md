@@ -2,6 +2,10 @@
 
 ## 🅰️ MidLevel Angular Developer | Frontend Enthusiast | Egypt 🇪🇬
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-a7medfarouh.github.io-7c5cff?style=for-the-badge&logo=angular&logoColor=white)](https://a7medfarouh.github.io)
+
+🌐 **Check out my portfolio:** [a7medfarouh.github.io](https://a7medfarouh.github.io) — my projects, experience and skills in one place (English / العربية).
+
 Welcome to my GitHub profile! I'm a passionate junior Angular developer eager to build modern web applications and grow my skills in the Angular ecosystem. I love learning new technologies and solving problems through code.
 
 ### 🌱 Technologies I'm Learning & Using
@@ -50,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate junior Angular developer eager to
 **🏗️ Learning Projects:**
 - **Todo Application:** CRUD operations with local storage
 - **Weather App:** API integration and responsive design  
-- **Portfolio Website:** Showcasing my projects and skills
+- **Portfolio Website:** Showcasing my projects and skills — [live here](https://a7medfarouh.github.io)
 - **Recipe Book:** Angular forms and data management
 - **Calculator App:** Component interaction and TypeScript logic
 
